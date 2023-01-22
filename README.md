@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm José Ángel 👋
+
+![Logo](https://user-images.githubusercontent.com/84317484/213930957-38faf411-c203-4fdd-b06a-e2d1d5ef35ce.png)
 
 <!--
 **JangelMartinez/JangelMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
