@@ -1,6 +1,43 @@
-### Hi, I'm José Ángel 👋
-
 ![Logo](https://user-images.githubusercontent.com/84317484/213930957-38faf411-c203-4fdd-b06a-e2d1d5ef35ce.png)
+
+```js
+const stack = {
+  code: [
+     JavaScript, 
+     Typescript, 
+     HTML5, 
+     CSS3, 
+     PHP
+  ],
+  bbdd: [
+     MariaDB, 
+     MySQL
+  ],
+  tools: [
+     React, 
+     Node, 
+     Express, 
+     React-Router-Dom, 
+     Styled-Components, 
+     Git, 
+     BootsTrap, 
+     PrimeReact, 
+     FontAwesome,
+     APIs
+  ],
+  SO: [
+     windows,
+     linux
+  ],
+  text: [markDown],
+  others: [
+     IT Networks
+  ]
+}
+```
+
+You can find me :
+- [LinkedIn](https://www.linkedin.com/in/jose-angel-martinez-socarrades/)
 
 <!--
 **JangelMartinez/JangelMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
