@@ -2,39 +2,18 @@
 
 ```js
 const stack = {
-  code: [
-     JavaScript, 
-     Typescript, 
-     HTML5, 
-     CSS3, 
-     PHP
-  ],
-  bbdd: [
-     MariaDB, 
-     MySQL
-  ],
-  tools: [
-     React, 
-     Node, 
-     Express, 
-     React-Router-Dom, 
-     Styled-Components, 
-     Git, 
-     BootsTrap, 
-     PrimeReact, 
-     FontAwesome,
-     APIs
-  ],
-  SO: [
-     windows,
-     linux
-  ],
-  text: [markDown],
-  others: [
-     IT Networks
-  ]
+  code: [  JavaScript,   Typescript,   HTML5,   CSS3,   PHP  ],
+  bbdd: [  MariaDB,   MySQL  ],
+  tools: [  React,   Node,   Express,   React-Router-Dom,   Styled-Components,   Git,   BootsTrap,   PrimeReact,   
+     FontAwesome,  APIs  ],
+  SO: [  windows,  linux  ],
+  text: [  markDown  ],
+  others: [  IT Networks  ]
 }
 ```
+<!--
+[![jangelMartinez's github stats](https://github-readme-stats.vercel.app/api?username=jangelMartinez)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 You can find me :
 - [LinkedIn](https://www.linkedin.com/in/jose-angel-martinez-socarrades/)
